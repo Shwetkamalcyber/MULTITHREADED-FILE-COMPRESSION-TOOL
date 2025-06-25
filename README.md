@@ -6,7 +6,7 @@ DOMAIN: C++
 DURATION: 4 WEEKS
 MENTOR: NEELA SONTASH
 
-DESCRIPTION:
+#DESCRIPTION:
 
 File Compression and Decompression Tool Using RLE in C++
 
@@ -102,3 +102,5 @@ Building a GUI using libraries such as SFML or Qt.
 
 Conclusion
 This project demonstrates a practical understanding of file handling, string manipulation, and compression algorithms in C++. It serves as a foundational tool for further development and optimization, and effectively highlights the application of C++ in systems programming tasks.
+
+#OUTPUT:
