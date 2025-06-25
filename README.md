@@ -82,3 +82,13 @@ Conclusion
 This project demonstrates a practical understanding of file handling, string manipulation, and compression algorithms in C++. It serves as a foundational tool for further development and optimization, and effectively highlights the application of C++ in systems programming tasks.
 
 #OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/8363e1d5-5fa9-4625-94c6-fd8236d3707f)
+
+![Image](https://github.com/user-attachments/assets/5e57f20b-18a5-4947-a624-bf0a01483cd5)
+
+![Image](https://github.com/user-attachments/assets/c89036a6-9fd4-4140-ace6-6c3847aca8b8)
+
+![Image](https://github.com/user-attachments/assets/409f44ee-3e9e-4a2a-bd5b-5e87cd1aeee8)
+
+![Image](https://github.com/user-attachments/assets/75e0089c-60e6-4579-bbd0-a2656a3d938d)
