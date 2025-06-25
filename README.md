@@ -9,6 +9,7 @@ MENTOR: NEELA SONTASH
 DESCRIPTION:
 
 File Compression and Decompression Tool Using RLE in C++
+
 This C++ application implements a basic file compression and decompression tool using Run-Length Encoding (RLE) — a simple and efficient form of lossless data compression. The primary objective is to demonstrate file processing, data compression techniques, and basic algorithmic implementation in C++.
 
 Objective:
