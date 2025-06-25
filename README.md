@@ -35,6 +35,7 @@ The program consists of the following components:
 1. Compression Function
    
 cpp
+
 string compressRLE(const string &data)
 
 Traverses the input string.
@@ -44,6 +45,7 @@ Appends the character and its count to the result string.
 2. Decompression Function
    
 cpp
+
 string decompressRLE(const string &data)
 
 Iterates through each character.
