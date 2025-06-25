@@ -33,58 +33,49 @@ Implementation Details
 The program consists of the following components:
 
 1. Compression Function
+   
 cpp
-Copy
-Edit
 string compressRLE(const string &data)
+
 Traverses the input string.
-
 Counts consecutive identical characters.
-
 Appends the character and its count to the result string.
 
 2. Decompression Function
+   
 cpp
-Copy
-Edit
 string decompressRLE(const string &data)
+
 Iterates through each character.
-
 Extracts the numeric part following the character.
-
 Reconstructs the original data by repeating the character based on the parsed count.
 
 3. Main Function
+   
 Displays a menu: 1. Compress, 2. Decompress.
-
 Takes input/output file names from the user.
-
 Reads the input file into a string.
-
 Calls the appropriate function (compression or decompression).
-
 Writes the result to the output file.
 
 The file handling is performed using ifstream and ofstream. The data is read efficiently using iterator-based input, making the tool capable of handling large text files with minimal overhead.
 
 Error Handling
+
 The program includes basic error checks such as:
 
 File existence validation.
-
 Proper user input validation.
-
 Notification of I/O errors (e.g., file open failures).
 
 This ensures a smoother user experience and makes the tool more reliable for general use.
 
 Use Cases and Applications
+
 While simple, this tool is effective in scenarios such as:
 
 Compressing structured text files with repeated characters (e.g., logs, datasets).
-
 Educational purposes to understand compression logic.
-
 Preparing data for transmission with basic redundancy removal.
 
 Conclusion
