@@ -87,19 +87,6 @@ Educational purposes to understand compression logic.
 
 Preparing data for transmission with basic redundancy removal.
 
-Though RLE is not optimal for all file types (especially random or unique data), it’s ideal for applications involving large homogeneous sequences.
-
-Scope for Enhancement
-To make this tool more powerful, future improvements could include:
-
-Integrating multithreading to compress large files in parallel blocks.
-
-Supporting binary files with byte-wise encoding.
-
-Using more advanced algorithms like Huffman Coding or LZW.
-
-Building a GUI using libraries such as SFML or Qt.
-
 Conclusion
 This project demonstrates a practical understanding of file handling, string manipulation, and compression algorithms in C++. It serves as a foundational tool for further development and optimization, and effectively highlights the application of C++ in systems programming tasks.
 
